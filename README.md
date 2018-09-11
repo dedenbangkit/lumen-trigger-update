@@ -1,5 +1,6 @@
 # LUMEN TRIGGER UPDATE
 Updating Lumen Dataset within Dataset ID `https://<instance_id>.akvolumen.org/api/<dataset_id>`
+![image](https://i.imgur.com/ZGcu04f.gif)
 
 ## Usage
 ```
